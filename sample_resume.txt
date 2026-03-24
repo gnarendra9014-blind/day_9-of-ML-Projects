@@ -1,0 +1,21 @@
+Name: Sarah Chen
+Email: sarah.chen@email.com
+Phone: +1 (555) 123-4567
+
+EXPERIENCE
+Senior Software Engineer — Google, 2020-2024
+- Built ML pipelines processing 10M+ events daily
+- Led team of 5 engineers on recommendation system
+- Reduced model inference time by 40%
+
+Software Engineer — Startup XYZ, 2018-2020
+- Built REST APIs using Python and FastAPI
+- Deployed models using Docker and Kubernetes
+
+EDUCATION
+BS Computer Science — MIT, 2018
+
+SKILLS
+Python, TensorFlow, PyTorch, SQL, Docker, Kubernetes, FastAPI
+
+EMPLOYMENT GAP: 2024-present (maternity leave)

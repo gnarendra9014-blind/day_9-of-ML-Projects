@@ -1,0 +1,19 @@
+Senior ML Engineer — TechCorp
+
+We are looking for a Senior ML Engineer to join our AI team.
+
+Requirements:
+- 4+ years of software engineering experience
+- Strong Python skills
+- Experience with ML frameworks (TensorFlow or PyTorch)
+- Experience with production ML systems
+- Knowledge of Docker and Kubernetes
+
+Nice to have:
+- Experience at a top tech company
+- MS or PhD in Computer Science
+
+Responsibilities:
+- Build and maintain ML pipelines
+- Deploy models to production
+- Collaborate with data scientists
